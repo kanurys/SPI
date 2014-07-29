@@ -1,7 +1,7 @@
 {
-  "name": "PID_v1",
-  "author": "Brett Beauregard",
+  "name": "SPI",
+  "author": "Arduino",
   "license": "Open",
   "version": "0.0.1",
-  "description": "Library for PID control"
+  "description": "Library for SPI communication"
 }
