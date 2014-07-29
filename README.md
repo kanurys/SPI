@@ -1,6 +1,6 @@
 This repo exists to push this library to the spark core website.
 
-PID_v1
+SPI
 ======
 
-Playing With Fusion MAX31865 library
+Arduino SPI Library
